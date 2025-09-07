@@ -1,14 +1,14 @@
 # jarvis_python_ai
-# Fredrisk AI Assistant
+# jarvis AI Assistant
 
 ## 🤖 Overview
-Fredrisk is an advanced AI-powered voice assistant with a visually stunning interactive interface. It combines voice recognition, AI capabilities, and a dynamic visual interface to create a comprehensive personal assistant experience.
+jarvis is an advanced AI-powered voice assistant with a visually stunning interactive interface. It combines voice recognition, AI capabilities, and a dynamic visual interface to create a comprehensive personal assistant experience.
 
 ## ✨ Features
 
 ### 🎤 Voice Control
 - **Voice Authentication**: Secure access with voice password protection
-- **Wake Word Detection**: Activate with "wake up fredrisk"
+- **Wake Word Detection**: Activate with "wake up jarvis"
 - **Natural Language Processing**: Understands and responds to conversational commands
 - **Text-to-Speech**: Clear vocal responses with customizable voice settings
 
